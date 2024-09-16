@@ -25,7 +25,7 @@ function App()
       <ClassComp/>
 
         <p style={{color:'yellow'}}>
-          App Component Paragraph
+          App Component Paragraph Here
         </p>
       </header>
     </div>
